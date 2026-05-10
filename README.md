@@ -20,7 +20,7 @@ The name comes from the Ukrainian word **довколо** — meaning *around / 
  
 | Onboarding | Map view | Store list | Add item | Settings |
 |---|---|---|---|---|
-| ![Onboarding](screenshots/onboarding.jpg) | ![Map](screenshots/map.jpg) | ![Store](screenshots/store.jpg) | ![Add](screenshots/add.jpg) | ![Settings](screenshots/settings.jpg) |
+| ![Onboarding](screenshots/onboarding.png) | ![Map](screenshots/map.png) | ![Store](screenshots/store.png) | ![Add](screenshots/add.png) | ![Settings](screenshots/settings.png) |
  
 ---
  
